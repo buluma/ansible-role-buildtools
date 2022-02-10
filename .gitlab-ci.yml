@@ -72,4 +72,8 @@ testing:
 
 galaxy:
   script:
-    - ansible-galaxy role info ${CI_PROJECT_NAMESPACE}.buildtools
+    - ansible-galaxy role info buluma.buildtools
+
+test_role:
+  script:
+    - ansible-galaxy install buluma.buildtools
