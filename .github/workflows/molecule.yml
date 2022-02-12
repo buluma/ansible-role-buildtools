@@ -13,7 +13,7 @@ on:
       - '*'
   pull_request:
   schedule:
-    - cron: '3 2 2 * *'
+    - cron: '3 2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -58,6 +58,8 @@ jobs:
             tag: "latest"
           - image: "docker-ubuntu-systemd"
             tag: "bionic"
+          - image: "docker-ubuntu-systemd"
+            tag: "focal"
     steps:
       - name: checkout
         uses: actions/checkout@v2.4.0
