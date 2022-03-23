@@ -2,9 +2,9 @@
 
 Install buildtools on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|
-|------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-buildtools/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-buildtools/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-buildtools/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-buildtools)|[![quality](https://img.shields.io/ansible/quality/57838)](https://galaxy.ansible.com/buluma/buildtools)|[![downloads](https://img.shields.io/ansible/role/d/57838)](https://galaxy.ansible.com/buluma/buildtools)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-buildtools.svg)](https://github.com/buluma/ansible-role-buildtools/releases/)|
+|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|---------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-buildtools/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-buildtools/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-buildtools/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-buildtools)|[![quality](https://img.shields.io/ansible/quality/57838)](https://galaxy.ansible.com/buluma/buildtools)|[![downloads](https://img.shields.io/ansible/role/d/57838)](https://galaxy.ansible.com/buluma/buildtools)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-buildtools.svg)](https://github.com/buluma/ansible-role-buildtools/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-buildtools.svg)](https://github.com/buluma/ansible-role-buildtools/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr/buluma/ansible-role-buildtools.svg)](https://github.com/buluma/ansible-role-buildtools/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
