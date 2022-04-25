@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-buildtools/tree/HEAD)
+## [2.0.2](https://github.com/buluma/ansible-role-buildtools/tree/2.0.2) (2022-04-24)
 
-[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.0.1...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.0.1...2.0.2)
 
 **Merged pull requests:**
 
