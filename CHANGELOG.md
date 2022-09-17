@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.0](https://github.com/buluma/ansible-role-buildtools/tree/2.1.0) (2022-07-07)
+
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.0.2...2.1.0)
+
 ## [2.0.2](https://github.com/buluma/ansible-role-buildtools/tree/2.0.2) (2022-04-24)
 
 [Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.0.1...2.0.2)
