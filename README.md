@@ -88,7 +88,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [Changelog](#changelog)
 
-[Role History](https://github.com/buluma/ansible-role-buildtools/blob/master/CHANGELOG.md)
+[Role History](https://github.com/buluma/ansible-role-buildtools/blob/main/CHANGELOG.md)
 
 ## [License](#license)
 
