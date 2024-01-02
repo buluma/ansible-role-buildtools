@@ -1,5 +1,19 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-buildtools/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.6...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#17](https://github.com/buluma/ansible-role-buildtools/issues/17)
+- Update action [\#16](https://github.com/buluma/ansible-role-buildtools/issues/16)
+- rebuild action [\#15](https://github.com/buluma/ansible-role-buildtools/issues/15)
+
+## [2.1.6](https://github.com/buluma/ansible-role-buildtools/tree/2.1.6) (2023-12-25)
+
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.5...2.1.6)
+
 ## [2.1.5](https://github.com/buluma/ansible-role-buildtools/tree/2.1.5) (2023-11-18)
 
 [Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.4...2.1.5)
