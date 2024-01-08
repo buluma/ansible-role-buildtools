@@ -1,14 +1,18 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-buildtools/tree/HEAD)
+## [2.2.0](https://github.com/buluma/ansible-role-buildtools/tree/2.2.0) (2024-01-03)
 
-[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.6...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.6...2.2.0)
 
 **Closed issues:**
 
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#17](https://github.com/buluma/ansible-role-buildtools/issues/17)
 - Update action [\#16](https://github.com/buluma/ansible-role-buildtools/issues/16)
 - rebuild action [\#15](https://github.com/buluma/ansible-role-buildtools/issues/15)
+
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#18](https://github.com/buluma/ansible-role-buildtools/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.1.6](https://github.com/buluma/ansible-role-buildtools/tree/2.1.6) (2023-12-25)
 
