@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-buildtools/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.3.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump release-drafter/release-drafter from 5 to 6 [\#21](https://github.com/buluma/ansible-role-buildtools/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [2.3.0](https://github.com/buluma/ansible-role-buildtools/tree/2.3.0) (2024-01-23)
 
 [Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.2.0...2.3.0)
