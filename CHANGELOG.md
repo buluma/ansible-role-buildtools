@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-buildtools/tree/HEAD)
+## [24.2.26](https://github.com/buluma/ansible-role-buildtools/tree/24.2.26) (2024-02-19)
 
-[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.3.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.3.0...24.2.26)
 
 **Merged pull requests:**
 
+- Bump release-drafter/release-drafter from 5 to 6 [\#22](https://github.com/buluma/ansible-role-buildtools/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#21](https://github.com/buluma/ansible-role-buildtools/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.3.0](https://github.com/buluma/ansible-role-buildtools/tree/2.3.0) (2024-01-23)
@@ -49,19 +50,19 @@
 
 ## [2.1.3](https://github.com/buluma/ansible-role-buildtools/tree/2.1.3) (2022-10-06)
 
-[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.1...2.1.3)
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.2...2.1.3)
 
 **Merged pull requests:**
 
 - Fix Debian bookworm [\#9](https://github.com/buluma/ansible-role-buildtools/pull/9) ([buluma](https://github.com/buluma))
 
-## [2.1.1](https://github.com/buluma/ansible-role-buildtools/tree/2.1.1) (2022-09-17)
-
-[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.2...2.1.1)
-
 ## [2.1.2](https://github.com/buluma/ansible-role-buildtools/tree/2.1.2) (2022-09-17)
 
-[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.0...2.1.2)
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.1...2.1.2)
+
+## [2.1.1](https://github.com/buluma/ansible-role-buildtools/tree/2.1.1) (2022-09-17)
+
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.0...2.1.1)
 
 ## [2.1.0](https://github.com/buluma/ansible-role-buildtools/tree/2.1.0) (2022-07-07)
 
