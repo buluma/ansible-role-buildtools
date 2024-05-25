@@ -39,6 +39,7 @@
 **Merged pull requests:**
 
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#18](https://github.com/buluma/ansible-role-buildtools/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Fix Debian bookworm [\#9](https://github.com/buluma/ansible-role-buildtools/pull/9) ([buluma](https://github.com/buluma))
 
 ## [2.1.6](https://github.com/buluma/ansible-role-buildtools/tree/2.1.6) (2023-12-25)
 
@@ -60,10 +61,6 @@
 ## [2.1.3](https://github.com/buluma/ansible-role-buildtools/tree/2.1.3) (2022-10-06)
 
 [Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/2.1.2...2.1.3)
-
-**Merged pull requests:**
-
-- Fix Debian bookworm [\#9](https://github.com/buluma/ansible-role-buildtools/pull/9) ([buluma](https://github.com/buluma))
 
 ## [2.1.2](https://github.com/buluma/ansible-role-buildtools/tree/2.1.2) (2022-09-17)
 
