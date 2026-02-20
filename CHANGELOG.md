@@ -74,7 +74,6 @@
 **Merged pull requests:**
 
 - Fix Debian bookworm [\#9](https://github.com/buluma/ansible-role-buildtools/pull/9) ([buluma](https://github.com/buluma))
-- Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#2](https://github.com/buluma/ansible-role-buildtools/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.1.2](https://github.com/buluma/ansible-role-buildtools/tree/2.1.2) (2022-09-17)
 
@@ -135,6 +134,7 @@
 **Merged pull requests:**
 
 - Bump actions/checkout from 1 to 2.4.0 [\#3](https://github.com/buluma/ansible-role-buildtools/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#2](https://github.com/buluma/ansible-role-buildtools/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump alstr/todo-to-issue-action from 2.3 to 4.6 [\#1](https://github.com/buluma/ansible-role-buildtools/pull/1) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.2](https://github.com/buluma/ansible-role-buildtools/tree/1.0.2) (2022-02-02)
