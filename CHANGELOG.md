@@ -2,22 +2,10 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-buildtools/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/24.3.31...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/24.2.26...HEAD)
 
 **Merged pull requests:**
 
-- Bump actions/checkout from 4 to 6 [\#31](https://github.com/buluma/ansible-role-buildtools/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump ansible/ansible-lint from 24.9.2 to 24.10.0 [\#29](https://github.com/buluma/ansible-role-buildtools/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump ansible/ansible-lint from 24.9.0 to 24.9.2 [\#28](https://github.com/buluma/ansible-role-buildtools/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#27](https://github.com/buluma/ansible-role-buildtools/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
-
-## [24.3.31](https://github.com/buluma/ansible-role-buildtools/tree/24.3.31) (2024-03-29)
-
-[Full Changelog](https://github.com/buluma/ansible-role-buildtools/compare/24.2.26...24.3.31)
-
-**Merged pull requests:**
-
-- Bump dependabot/fetch-metadata from 1 to 2 [\#26](https://github.com/buluma/ansible-role-buildtools/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#23](https://github.com/buluma/ansible-role-buildtools/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [24.2.26](https://github.com/buluma/ansible-role-buildtools/tree/24.2.26) (2024-02-19)
