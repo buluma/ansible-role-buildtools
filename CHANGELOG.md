@@ -6,6 +6,8 @@
 
 **Merged pull requests:**
 
+- Bump docker/setup-buildx-action from 3 to 4 [\#33](https://github.com/buluma/ansible-role-buildtools/pull/33) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ansible/ansible-lint from 26.2.0 to 26.3.0 [\#32](https://github.com/buluma/ansible-role-buildtools/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 4 to 6 [\#31](https://github.com/buluma/ansible-role-buildtools/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.10.0 to 24.12.0 [\#30](https://github.com/buluma/ansible-role-buildtools/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.2 to 24.10.0 [\#29](https://github.com/buluma/ansible-role-buildtools/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
