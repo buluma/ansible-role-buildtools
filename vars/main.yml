@@ -55,5 +55,5 @@ _buildtools_packages:
     - perl-Digest-SHA1
 
 buildtools_packages:
-  "{{ _buildtools_packages[ansible_facts.distribution ~ '-' ~ ansible_facts.distribution_major_version] | default(_buildtools_packages[ansible_facts.distribution]
-  | default(_buildtools_packages[ansible_facts.os_family] | default (_buildtools_packages['default'] ))) }}"
+  "{{ _buildtools_packages[ansible_facts['distribution'] ~ '-' ~ ansible_facts['distribution_major_version']] | default(_buildtools_packages[ansible_facts['distribution']]
+  | default(_buildtools_packages[ansible_facts['os_family']] | default (_buildtools_packages['default'] ))) }}"
