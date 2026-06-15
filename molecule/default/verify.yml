@@ -7,20 +7,20 @@
   tasks:
     - name: run gcc
       ansible.builtin.command:
-      changed_when: false
         cmd: gcc --version
+      changed_when: false
 
     - name: run make
       ansible.builtin.command:
-      changed_when: false
         cmd: make --version
+      changed_when: false
 
     - name: run shasum
       ansible.builtin.command:
-      changed_when: false
         cmd: shasum --version
+      changed_when: false
 
     - name: run bison
       ansible.builtin.command:
-      changed_when: false
         cmd: bison --version
+      changed_when: false
